@@ -1,0 +1,73 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+.row {
+	margin-left: 0%;
+}
+.mar1{
+	margin-top: 3%;
+}
+.mar2{
+	margin-bottom: 5%;
+}
+.mar3 {
+	margin-top: 7%;
+}
+.mar4 {
+	margin-bottom: 7%;
+}
+.mar5 {
+	margin-top: 5%; 
+}
+.mar6 {
+	margin-bottom: 3%;
+}
+/*ENCABEZADO*/
+nav {
+	display: block;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+a {
+	margin-left: 9%;
+	text-decoration: none;
+}
+/*CONTACTO*/ 
+input {
+	padding: 1%;
+	margin-top: 1%;
+	background-color: transparent;
+}
+.mensaje {
+	padding-bottom: 10%;
+}
+.formulario {
+	padding-bottom: 10%;
+	background-size: 65% 97%;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-image: url(../img/shoes_1.jpg);
+} 
+.envio {
+	width: 41.5%;
+	padding: 1% 0;
+	margin-top: 2%;
+	font-size: 20px;	
+}
+/*FOOTER*/
+footer {
+	background-color: #0B0B61;
+	border-bottom: 5px solid black;
+}
+.diseno {
+	color: white;
+	margin: 3% 0 2% 5%;
+}
+/*BOTONES - CARACTERISTICAS*/
+button {
+	border: none;
+	border-radius: 3px;
+	background-color: #0B0B61;
+}
+button a {
+	color: white;
+	font-size: 18px;
+}

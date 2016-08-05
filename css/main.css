@@ -1,0 +1,76 @@
+/* Inserta tu codigo aqui */
+/*CONTENIDO PRINCIPAL*/
+/*ENCABEZADO*/
+.titulo {
+	margin-top: 2%;
+}
+/*DESCRIPCIÓN DE LA PÁGINA*/
+.fondo {
+	padding-bottom: 10%;
+	background-position: top;
+	background-image: url(../img/dance_1.jpg);
+}
+.tituloI{
+	font-size: 70px;
+}
+/*BOTONES / CARACTERISTICAS*/
+.bo1 {
+	padding: 1% 2%;
+}
+/*DESCRIPCIÓN II*/
+.fondoII {
+	background-image: url(../img/textura_2.jpg);
+}
+.texto {
+	font-size: 25px;
+}
+.decoracion {
+	height: 100px;
+	margin-left: 46%;
+}
+.oferta {
+	width: 25%;
+	padding: 1% 2%;
+	margin-left: 37%;
+}
+/*IMAGEN DOBLE*/
+.imagen1 {
+	background-image: url(../img/instructor_4.jpg);
+}
+.imagen2 {
+	background-image: url(../img/profesor_9.jpg);
+}
+.fondo, .imagen1, .imagen2, .fondoII  {
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.imagen1, .imagen2 {
+	padding-bottom: 25%;
+	border: 2px solid black;
+	background-position: top;	
+}
+.tam {
+	font-size: 16px;
+}
+#texto {
+	left: 30%;
+	float: left;
+	width: 500px;
+	padding: 2% 1%;
+	margin-top: 19.7%;
+	position: absolute;
+}
+/*FRASE I*/
+.textoII {
+	font-size: 35px;
+}
+/*SECCION MAPA*/
+.seccion {
+	background-color: #0B0B61;
+}
+.contacto {
+	padding: 10% 5%;
+}
+iframe {
+	margin-top: 8%;
+}

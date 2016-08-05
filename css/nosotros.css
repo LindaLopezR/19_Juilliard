@@ -1,0 +1,35 @@
+/* Inserta tu codigo aqui */
+/*CARACTERISTICAS*/
+.fondo {
+	background-position: 0% 45%;
+	background-repeat: no-repeat;
+	background-image: url(../img/dance_7.jpg);
+}
+.info {
+	width: 35%;
+	opacity: 0.6;
+	margin: 8% 0 6% 35%;
+	padding: 3% 5% 3% 5%;
+	background-color: black;
+}
+/*SECCION II - PILARES*/
+.padi1 {
+	padding: 0 5%;
+}
+.fondoI {
+	background-size: 5%;
+	background-image: url(../img/tile2.png);
+}
+/*INSTRUCTORES*/
+.tituloI, img+h4 {
+	font-family: LatoHeavy;
+	src: url(../fonts/LatoHeavy.ttf);
+}
+.profesor {
+	width: 200px;
+	height: 180px;
+}
+/*FRASE*/
+.frase {
+	font-size: 35px;
+}
